@@ -1,0 +1,1 @@
+hey there...This is sample text to see printing some text into file using print
